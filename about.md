@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This blog is hosted on github, made with jekyll.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Still on development, not really complete yet.
+Any sugestion is really appreciated.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+<!-- [email@domain.com](mailto:email@domain.com) -->
+Telegram	: @rez526.
+Instagram	: @_r526.
