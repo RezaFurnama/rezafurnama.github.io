@@ -36,4 +36,5 @@ Gampang kok, cukup ikutin tutorial dibawah ya, heheh
 > Lebih mudah belajarnya lewat Aplikasi Udemy di Android, semua Coursenya bisa didownload jadi tetap bisa belajar secara offline
 
 Jika ada pertanyaan, kritik ataupun saran bisa disampaikan kesini [Telegram](https://t.me/Rezfur)
-Sekian posting kali ini. Thanks.
+Sekian posting kali ini. 
+Thanks.
