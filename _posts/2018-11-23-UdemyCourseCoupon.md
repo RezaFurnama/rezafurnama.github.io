@@ -26,14 +26,12 @@ Materi yang dibagikan ada yang berbentuk video ataupun artikel, nah disetiap Cou
 | [Learn C++ From Beginner To Advanced](https://www.udemy.com/learn-c-plus-plus-from-beginner-to-advanced)	| jerrybanfield |
 | [Unity Master Video Game Development The Complete Course](https://www.udemy.com/unity-master-video-game-development-the-complete-course) | SS_FREE |
 | [The Complete Unity Indie Game Developer Course](https://www.udemy.com/the-complete-unity-indie-game-developer-course) | SS_FREE |
+|-----------------------------------------------|-------------|
 
-###Cara Menggunakan Coupon
+##Cara Menggunakan Coupon
 Gampang kok, cukup ikutin tutorial dibawah ya, heheh
 
-Tutorial: 
-![Udemy Coupon Redeem][tutorial]
-
-[tutorial]: https://github.com/RezaFurnama/rezafurnama.github.io/blob/master/images/UdemyCourseCouponRedeem.gif "Redeem Coupon Udemy"
+![_config.yml]({{ site.baseurl }}/images/UdemyCourseCouponRedeem.gif)
 
 > Lebih mudah belajarnya lewat Aplikasi Udemy di Android, semua Coursenya bisa didownload jadi tetap bisa belajar secara offline
 
