@@ -35,7 +35,7 @@ Tutorial:
 
 [tutorial]: https://github.com/RezaFurnama/rezafurnama.github.io/blob/master/images/UdemyCourseCouponRedeem.gif "Redeem Coupon Udemy"
 
-> Lebih mudah belajarnya lewat Aplikasi Udemy di Android, semua Coursenya bisa didownload jadi tetap bisa belajar secara offline
+> Lebih mudah belajarnya lewat Aplikasi Udemy di Android, semua Coursenya bisa didownload jadi tetap bisa belajar secara offline.
 
 Jika ada pertanyaan, kritik ataupun saran bisa disampaikan ke [Telegram](https://t.me/Rezfur).
 
