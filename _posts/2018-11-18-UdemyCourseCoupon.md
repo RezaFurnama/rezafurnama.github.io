@@ -27,4 +27,3 @@ Materi yang dibagikan ada yang berbentuk video ataupun artikel, nah disetiap Cou
 | [Unity Master Video Game Development The Complete Course](https://www.udemy.com/unity-master-video-game-development-the-complete-course) | SS_FREE |
 | [The Complete Unity Indie Game Developer Course](https://www.udemy.com/the-complete-unity-indie-game-developer-course) | SS_FREE |
 
-
