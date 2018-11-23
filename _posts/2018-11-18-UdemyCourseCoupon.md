@@ -8,7 +8,7 @@ Sebelumnya udah pada tau Udemy kan? Buat yang belum tau, Udemy itu salah satu Pl
 Materi yang dibagikan ada yang berbentuk video ataupun artikel, nah disetiap Course yang dibuka di Udemy itu langsung dibimbing oleh Instructor yang memang ahli dalam bidangnya, terus kalau kita udah menyelesaikan Course di Udemy, kita mendapat sertifikat, lumayan kan. Oh iya di Udemy gak semua Course berbayar kok, ada juga yang gratis. Nah yang mau dibagikan disini adalah Coupon untuk meng-gratiskan beberapa Course yang sebenarnya berbayar, dari harga aslinya ratusan ribu sampai jutaan, kuy langsung aja
 
 |	Link Course 	| Coupon	|
-| :--------------:	| :-------: |
+| ----------------	| :-------: |
 | [Learn Javascript Essential and Build Project](https://www.udemy.com/javascript-learn-javascript-essentials-and-build-project) | bbhf2017 |
 | [Django Framework Core](https://www.udemy.com/django-core) | CFENOV2016 |
 | [How To Make Chat Bot For Facebook Messenger](https://www.udemy.com/chatbots-how-to-make-chat-bot-for-facebook-messenger) | CHATBOTSLIFE |
@@ -27,3 +27,4 @@ Materi yang dibagikan ada yang berbentuk video ataupun artikel, nah disetiap Cou
 | [Unity Master Video Game Development The Complete Course](https://www.udemy.com/unity-master-video-game-development-the-complete-course) | SS_FREE |
 | [The Complete Unity Indie Game Developer Course](https://www.udemy.com/the-complete-unity-indie-game-developer-course) | SS_FREE |
 
+> Caranya tinggal Klik Link Course diatas, lalu Pilih Have A Coupon? Kemudian Masukkan Coupon diatas sesuai dengan Course yang dipilih, lalu klik Enroll Now untuk mulai ikut belajar
