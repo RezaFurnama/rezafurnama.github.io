@@ -30,10 +30,13 @@ Materi yang dibagikan ada yang berbentuk video ataupun artikel, nah disetiap Cou
 ###Cara Menggunakan Coupon
 Gampang kok, cukup ikutin tutorial dibawah ya, heheh
 
+Tutorial: 
 ![Udemy Coupon Redeem][tutorial]
+
 [tutorial]: https://github.com/RezaFurnama/rezafurnama.github.io/blob/master/images/UdemyCourseCouponRedeem.gif "Redeem Coupon Udemy"
 
 > Lebih mudah belajarnya lewat Aplikasi Udemy di Android, semua Coursenya bisa didownload jadi tetap bisa belajar secara offline
 
-Jika ada pertanyaan, kritik ataupun saran bisa disampaikan kesini [Telegram](https://t.me/Rezfur)
+Jika ada pertanyaan, kritik ataupun saran bisa disampaikan ke [Telegram](https://t.me/Rezfur).
+
 Sekian posting kali ini. Thanks.
