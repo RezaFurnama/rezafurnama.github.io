@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This blog is hosted on github, made with jekyll.
-
-### More Information
-
-Still on development, not really complete yet.
-Any sugestion is really appreciated.
+This blog is still on development, not really completed yet.
+Any suggestion is really appreciated.
 
 ### Contact me
 
