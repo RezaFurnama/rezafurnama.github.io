@@ -11,3 +11,4 @@ Any suggestion is really appreciated.
 
 <!-- [email@domain.com](mailto:email@domain.com) -->
 [Instagram](https://www.instagram.com/_r526/)
+[Telegram](https://t.me/Rezfur)
