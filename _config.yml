@@ -2,7 +2,7 @@
 title: kodekodein
 description: Let's Code
 baseurl: '' # for test: remove string '/space-jekyll-template' to ''
-url: '' # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+url: 'https://kodekodein.me' # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
 username: Rez
